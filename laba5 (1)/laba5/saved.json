@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "qwe",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1
+    },
+    "creationDate": "8-апр.-2024",
+    "area": 1.0,
+    "numberOfRooms": 1,
+    "height": 1,
+    "next": true,
+    "transport": "FEW",
+    "house": {
+      "name": "1",
+      "year": 1,
+      "numberOfFloors": 1,
+      "numberOfLifts": 1
+    }
+  },
+  {
+    "id": 0,
+    "name": "qwe",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1
+    },
+    "creationDate": "8-апр.-2024",
+    "area": 1.0,
+    "numberOfRooms": 1,
+    "height": 1,
+    "next": true,
+    "transport": "FEW",
+    "house": {
+      "name": "qwe",
+      "year": 123,
+      "numberOfFloors": 1,
+      "numberOfLifts": 1
+    }
+  }
+]
